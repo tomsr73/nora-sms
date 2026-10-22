@@ -1,7 +1,0 @@
-// Cloudflare Workers static-assets deploy for nora.rodericktoms.com (Workers Builds runs `npx wrangler deploy`).
-// The same files are also served by GitHub Pages from the repo root.
-{
-  "name": "nora-sms",
-  "compatibility_date": "2026-10-01",
-  "assets": { "directory": "." }
-}
